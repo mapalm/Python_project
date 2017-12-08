@@ -1,0 +1,101 @@
+Our identifier;Other's identifier/name;Collection;Reference;96 well plate;96 well position;384 well plate;384 well position;Already sequenced?;Accession number (if sequenced);Genomic DNA plate (if isolated);Genomic DNA plate position;Sent for sequencing;Sequencing plate;Sequenced (by us);Ampicillin;Ceftazidime;Cefotaxime;Cefuroxime;Cephalothin;Ciprofloxacin;Gentamycin;Tobramycin;Trimethoprim
+GU1;24 T;CCUG;;E. coli batch 1;A1;;;yes;ER000001;Genomic DNA 3;H10;42983;Sequencing 2;;s;r;r;r;s;s;r;s;r
+GU2;MC4100;CCUG;;E. coli batch 1;A2;;;yes;ER000002;Genomic DNA 3;H11;42983;Sequencing 2;;s;s;s;r;r;s;r;s;r
+GU3;MG1655;CCUG;;E. coli batch 1;A3;;;yes;ER000003;;;;;;r;s;s;r;r;r;r;r;r
+GU4;W3110;CCUG;;E. coli batch 1;A4;;;yes;ER000004;Genomic DNA 4;A1;;;;s;s;s;r;s;s;s;s;r
+GU5;59341;CCUG;;E. coli batch 1;A5;;;yes;ER000005;Genomic DNA 4;A2;;;;r;s;s;r;r;r;r;r;r
+GU6;25709;CCUG;;E. coli batch 1;A6;;;yes;ER000006;Genomic DNA 4;A3;;;;s;r;r;r;s;s;s;s;r
+GU7;58983;CCUG;;E. coli batch 1;A7;;;yes;ER000007;Genomic DNA 4;A4;;;;r;s;r;r;r;s;r;r;r
+GU8;26325;CCUG;;E. coli batch 1;A8;;;yes;ER000008;Genomic DNA 4;A5;;;;r;s;r;r;r;s;r;s;s
+GU9;38137;CCUG;;E. coli batch 1;A9;;;yes;ER000009;Genomic DNA 4;A6;;;;s;s;r;r;r;r;s;r;r
+GU10;24080;CCUG;;E. coli batch 1;A10;;;yes;ER000010;Genomic DNA 4;A7;;;;s;s;r;r;r;s;s;s;s
+GU11;63955;CCUG;;E. coli batch 1;A11;;;yes;ER000011;Genomic DNA 4;A8;42983;Sequencing 3;;s;r;r;r;r;r;r;s;r
+GU12;11316;CCUG;;E. coli batch 1;A12;;;yes;ER000012;Genomic DNA 4;A9;42983;Sequencing 3;;s;r;s;r;r;s;r;s;s
+GU13;39094;CCUG;;E. coli batch 1;B1;;;yes;ER000013;Genomic DNA 4;A10;42983;Sequencing 3;;r;s;s;r;s;r;r;s;r
+GU14;58538;CCUG;;E. coli batch 1;B2;;;yes;ER000014;Genomic DNA 4;A11;42983;Sequencing 3;;r;r;s;r;s;r;r;s;s
+GU15;41845;CCUG;;E. coli batch 1;B3;;;yes;ER000015;Genomic DNA 4;A12;;;;r;s;r;r;s;r;s;r;r
+GU16;38712;CCUG;;E. coli batch 1;B4;;;yes;ER000016;Genomic DNA 4;B1;42983;Sequencing 2;;r;r;s;r;s;r;s;r;r
+GU17;8743 A;CCUG;;E. coli batch 1;B5;;;yes;ER000017;Genomic DNA 4;B2;;;;s;s;r;r;s;s;r;s;s
+GU18;21646;CCUG;;E. coli batch 1;B6;;;yes;ER000018;Genomic DNA 4;B3;;;;s;s;r;r;s;s;r;r;r
+GU19;44857;CCUG;;E. coli batch 1;B7;;;yes;ER000019;Genomic DNA 4;B4;;;;r;r;r;r;s;r;r;s;r
+GU20;55971;CCUG;;E. coli batch 1;B8;;;yes;ER000020;Genomic DNA 4;B5;;;;s;r;r;r;s;r;s;r;s
+GU21;55972;CCUG;;E. coli batch 1;B9;;;yes;ER000021;;;;;;s;r;r;r;s;s;r;s;r
+GU22;55973;CCUG;;E. coli batch 1;B10;;;yes;ER000022;;;;;;s;s;s;r;r;s;r;s;r
+GU23;55974;CCUG;;E. coli batch 1;B11;;;yes;ER000023;;;;;;r;s;s;r;r;r;r;r;r
+GU24;55975;CCUG;;E. coli batch 1;B12;;;yes;ER000024;;;;;;s;s;s;r;s;s;s;s;r
+GU25;55976;CCUG;;E. coli batch 1;C1;;;yes;ER000025;;;;;;r;s;s;r;r;r;r;r;r
+GU26;55977;CCUG;;E. coli batch 1;C2;;;yes;ER000026;;;;;;s;r;r;r;s;s;s;s;r
+GU27;55978;CCUG;;E. coli batch 1;C3;;;yes;ER000027;;;;;;r;s;r;r;r;s;r;r;r
+GU28;55979;CCUG;;E. coli batch 1;C4;;;yes;ER000028;;;;;;r;s;r;r;r;s;r;s;s
+GU29;55980;CCUG;;E. coli batch 1;C5;;;yes;ER000029;;;;;;s;s;r;r;r;r;s;r;r
+GU30;55981;CCUG;;E. coli batch 1;C6;;;yes;ER000030;;;;;;s;s;r;r;r;s;s;s;s
+GU31;55982;CCUG;;E. coli batch 1;C7;;;yes;ER000031;;;;;;s;r;r;r;r;r;r;s;r
+GU32;55983;CCUG;;E. coli batch 1;C8;;;yes;ER000032;;;;;;s;r;s;r;r;s;r;s;s
+GU33;55984;CCUG;;E. coli batch 1;C9;;;yes;ER000033;;;;;;r;s;s;r;s;r;r;s;r
+GU34;55985;CCUG;;E. coli batch 1;C10;;;yes;ER000034;;;;;;r;r;s;r;s;r;r;s;s
+GU35;55986;CCUG;;E. coli batch 1;C11;;;yes;ER000035;;;;;;r;s;r;r;s;r;s;r;r
+GU36;55987;CCUG;;E. coli batch 1;C12;;;yes;ER000036;;;;;;r;r;s;r;s;r;s;r;r
+GU37;55988;CCUG;;E. coli batch 1;D1;;;yes;ER000037;;;;;;s;s;r;r;s;s;r;s;s
+GU38;55989;CCUG;;E. coli batch 1;D2;;;yes;ER000038;;;;;;s;s;r;r;s;s;r;r;r
+GU39;55990;CCUG;;E. coli batch 1;D3;;;yes;ER000039;;;;;;r;r;r;r;s;r;r;s;r
+GU40;55991;CCUG;;E. coli batch 1;D4;;;yes;ER000040;;;;;;s;r;r;r;s;r;s;r;s
+GU41;55992;CCUG;;E. coli batch 1;D5;;;yes;ER000041;;;;;;s;r;r;r;s;s;r;s;r
+GU42;55993;CCUG;;E. coli batch 1;D6;;;yes;ER000042;;;;;;s;s;s;r;r;s;r;s;r
+GU43;55994;CCUG;;E. coli batch 1;D7;;;yes;ER000043;;;;;;r;s;s;r;r;r;r;r;r
+GU44;55995;CCUG;;E. coli batch 1;D8;;;;;;;;;;s;s;s;r;s;s;s;s;r
+GU45;55996;CCUG;;E. coli batch 1;D9;;;;;;;;;;r;s;s;r;r;r;r;r;r
+GU46;55997;CCUG;;E. coli batch 1;D10;;;;;;;;;;s;r;r;r;s;s;s;s;r
+GU47;55998;CCUG;;E. coli batch 1;D11;;;;;;;;;;r;s;r;r;r;s;r;r;r
+GU48;55999;CCUG;;E. coli batch 1;D12;;;;;;;;;;r;s;r;r;r;s;r;s;s
+GU49;56000;CCUG;;E. coli batch 1;E1;;;;;;;;;;s;s;r;r;r;r;s;r;r
+GU50;56001;CCUG;;E. coli batch 1;E2;;;;;;;;;;s;s;r;r;r;s;s;s;s
+GU51;56002;CCUG;;E. coli batch 1;E3;;;;;;;;;;s;r;r;r;r;r;r;s;r
+GU52;56003;CCUG;;E. coli batch 1;E4;;;yes;ER000052;;;;;;s;r;s;r;r;s;r;s;s
+GU53;56004;CCUG;;E. coli batch 1;E5;;;yes;ER000053;;;;;;r;s;s;r;s;r;r;s;r
+GU54;56005;CCUG;;E. coli batch 1;E6;;;yes;ER000054;;;;;;r;r;s;r;s;r;r;s;s
+GU55;56006;CCUG;;E. coli batch 1;E7;;;yes;ER000055;;;;;;r;s;r;r;s;r;s;r;r
+GU56;56007;CCUG;;E. coli batch 1;E8;;;yes;ER000056;;;;;;r;r;s;r;s;r;s;r;r
+GU57;56008;CCUG;;E. coli batch 1;E9;;;yes;ER000057;;;;;;s;s;r;r;s;s;r;s;s
+GU58;56009;CCUG;;E. coli batch 1;E10;;;yes;ER000058;;;;;;s;s;r;r;s;s;r;r;r
+GU59;56010;CCUG;;E. coli batch 1;E11;;;yes;ER000059;;;;;;r;r;r;r;s;r;r;s;r
+GU60;56011;CCUG;;E. coli batch 1;E12;;;yes;ER000060;;;;;;s;r;r;r;s;r;s;r;s
+GU61;56012;CCUG;;E. coli batch 1;F1;;;;;;;;;;s;r;r;r;s;s;r;s;r
+GU62;56013;CCUG;;E. coli batch 1;F2;;;;;;;;;;s;s;s;r;r;s;r;s;r
+GU63;56014;CCUG;;E. coli batch 1;F3;;;;;;;;;;r;s;s;r;r;r;r;r;r
+GU64;56015;CCUG;;E. coli batch 1;F4;;;yes;ER000064;;;;;;s;s;s;r;s;s;s;s;r
+GU65;56016;CCUG;;E. coli batch 1;F5;;;yes;ER000065;;;;;;r;s;s;r;r;r;r;r;r
+GU66;56017;CCUG;;E. coli batch 1;F6;;;yes;ER000066;;;;;;s;r;r;r;s;s;s;s;r
+GU67;56018;CCUG;;E. coli batch 1;F7;;;;;;;;;;r;s;r;r;r;s;r;r;r
+GU68;56019;CCUG;;E. coli batch 1;F8;;;yes;ER000068;;;;;;r;s;r;r;r;s;r;s;s
+GU69;56020;CCUG;;E. coli batch 1;F9;;;yes;ER000069;;;;;;s;s;r;r;r;r;s;r;r
+GU70;56021;CCUG;;E. coli batch 1;F10;;;yes;ER000070;;;;;;s;s;r;r;r;s;s;s;s
+GU71;56022;CCUG;;E. coli batch 1;F11;;;;;;;;;;s;r;r;r;r;r;r;s;r
+GU72;56023;CCUG;;E. coli batch 1;F12;;;;;;;;;;s;r;s;r;r;s;r;s;s
+GU73;56024;CCUG;;E. coli batch 1;G1;;;;;;;;;;r;s;s;r;s;r;r;s;r
+GU74;56025;CCUG;;E. coli batch 1;G2;;;yes;ER000074;;;;;;r;r;s;r;s;r;r;s;s
+GU75;56026;CCUG;;E. coli batch 1;G3;;;yes;ER000075;;;;;;r;s;r;r;s;r;s;r;r
+GU76;56027;CCUG;;E. coli batch 1;G4;;;yes;ER000076;;;;;;r;r;s;r;s;r;s;r;r
+GU77;56028;CCUG;;E. coli batch 1;G5;;;yes;ER000077;;;;;;s;s;r;r;s;s;r;s;s
+GU78;56029;CCUG;;E. coli batch 1;G6;;;yes;ER000078;;;;;;s;s;r;r;s;s;r;r;r
+GU79;56030;CCUG;;E. coli batch 1;G7;;;;;;;;;;r;r;r;r;s;r;r;s;r
+GU80;56031;CCUG;;E. coli batch 1;G8;;;;;;;;;;s;r;r;r;s;r;s;r;s
+GU81;56032;CCUG;;E. coli batch 1;G9;;;;;;;;;;s;r;r;r;s;s;r;s;r
+GU82;56033;CCUG;;E. coli batch 1;G10;;;;;;;;;;s;s;s;r;r;s;r;s;r
+GU83;56034;CCUG;;E. coli batch 1;G11;;;;;;;;;;r;s;s;r;r;r;r;r;r
+GU84;56035;CCUG;;E. coli batch 1;G12;;;;;;;;;;s;s;s;r;s;s;s;s;r
+GU85;56036;CCUG;;E. coli batch 1;H1;;;;;;;;;;r;s;s;r;r;r;r;r;r
+GU86;56037;CCUG;;E. coli batch 1;H2;;;yes;ER000086;;;;;;s;r;r;r;s;s;s;s;r
+GU87;56038;CCUG;;E. coli batch 1;H3;;;yes;ER000087;;;;;;r;s;r;r;r;s;r;r;r
+GU88;56039;CCUG;;E. coli batch 1;H4;;;yes;ER000088;;;;;;r;s;r;r;r;s;r;s;s
+GU89;56040;CCUG;;E. coli batch 1;H5;;;yes;ER000089;;;;;;s;s;r;r;r;r;s;r;r
+GU90;56041;CCUG;;E. coli batch 1;H6;;;yes;ER000090;;;;;;s;s;r;r;r;s;s;s;s
+GU91;56042;CCUG;;E. coli batch 1;H7;;;;;;;;;;s;r;r;r;r;r;r;s;r
+GU92;56043;CCUG;;E. coli batch 1;H8;;;;;;;;;;s;r;s;r;r;s;r;s;s
+GU93;56044;CCUG;;E. coli batch 1;H9;;;;;;;;;;r;s;s;r;s;r;r;s;r
+GU94;56045;CCUG;;E. coli batch 1;H10;;;;;;;;;;r;r;s;r;s;r;r;s;s
+GU95;56046;CCUG;;E. coli batch 1;H11;;;yes;ER000095;;;;;;r;s;r;r;s;r;s;r;r
+GU96;56047;CCUG;;E. coli batch 1;H12;;;yes;ER000096;;;;;;r;r;s;r;s;r;s;r;r
+GU97;56048;CCUG;;E. coli batch 2;A1;;;yes;ER000097;;;;;;s;s;r;r;s;s;r;s;s
+GU98;56049;CCUG;;E. coli batch 2;A2;;;yes;ER000098;;;;;;s;s;r;r;s;s;r;r;r
+GU99;56050;CCUG;;E. coli batch 2;A3;;;yes;ER000099;;;;;;r;r;r;r;s;r;r;s;r
+GU100;56051;CCUG;;E. coli batch 2;A4;;;;ER000100;;;;;;s;r;r;r;s;r;s;r;s
