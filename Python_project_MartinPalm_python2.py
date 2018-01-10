@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 
 # Imports the pandas package as pd, used to create and change csv files and data frames
 import pandas as pd
@@ -8,7 +8,7 @@ import os
 
 
 # Creates a data frame from the data .csv file
-input_file = input('Please enter the name of your data .csv file. Remember to place it in the same folder as this script. ')
+input_file = raw_input('Please enter the name of your data .csv file. Remember to place it in the same folder as this script. ')
 df = pd.read_csv('./' + input_file + '.csv', sep=';', encoding='latin1')
 
 # Creates a list of antibiotics from the antibiotics.csv file
@@ -110,35 +110,35 @@ def positions(strain_list):
         
       
 # Asks the user for input on what data to pull out and based on what information (strain names, antibiotics)
-query = input('What information do you want to pull out (all, resistances, accessions, positions etc. Enter help for a list of available data types.)? ')
+query = raw_input('What information do you want to pull out (all, resistances, accessions, positions etc. Enter help for a list of available data types.)? ')
 if len(query) > 0 and (query == 'resistances' or query == 'Resistances'):
     if query == ('resistances' or query == 'Resistances') or (query == 'accession' or query == 'Accession'):
-        query2 = input('From a list of strains or antibiotics? ')
+        query2 = raw_input('From a list of strains or antibiotics? ')
     if query2 == 'strains' or query2 == 'Strains':
-        query3 = input('For which strain? If you have a list of strains please enter "list". ')
+        query3 = raw_input('For which strain? If you have a list of strains please enter "list". ')
         if query3 == 'list':
-            query4 = list(pd.read_csv('./' + input('Please give the name of your strain list (including file extension, e.g. .csv). Remember to place it in the same folder as this script. '), sep=';'))
+            query4 = list(pd.read_csv('./' + raw_input('Please give the name of your strain list (including file extension, e.g. .csv). Remember to place it in the same folder as this script. '), sep=';'))
     elif query2 == 'antibiotics' or query2 == 'Antibiotics':
-        query5 = input('For which antibiotic? If you have a list of antibiotics please enter "list". ')
+        query5 = raw_input('For which antibiotic? If you have a list of antibiotics please enter "list". ')
         if query5 == 'list':
-            query6 = list(pd.read_csv('./' + input('Please give the name of your list of antibiotics (including file extension, e.g. .csv). Remember to place it in the same folder as this script. '), sep=';'))
+            query6 = list(pd.read_csv('./' + raw_input('Please give the name of your list of antibiotics (including file extension, e.g. .csv). Remember to place it in the same folder as this script. '), sep=';'))
     else:
         print('Please enter a correct type of data. The available types of data are "resistances", "accession". ')
         
 elif query == 'accession' or query == 'Accession':
-    query2 = input('For which strain? If you have a list of strains please enter "list". ')
+    query2 = raw_input('For which strain? If you have a list of strains please enter "list". ')
     if query2 == 'list':
-        query3 = list(pd.read_csv('./' + input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
+        query3 = list(pd.read_csv('./' + raw_input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
 
 elif query == 'positions' or query == ' Positions':
-    query2 = input('For which strain? If you have a list of strains please enter "list". ')
+    query2 = raw_input('For which strain? If you have a list of strains please enter "list". ')
     if query2 == 'list':
-        query3 = list(pd.read_csv('./' + input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
+        query3 = list(pd.read_csv('./' + raw_input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
 
 elif query == 'all' or query == 'All':
-    query2 = input('For which strain? If you have a list of strains please enter "list". ')
+    query2 = raw_input('For which strain? If you have a list of strains please enter "list". ')
     if query2 == 'list':
-        query3 = list(pd.read_csv('./' + input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
+        query3 = list(pd.read_csv('./' + raw_input('Please give the name of your strain list (including file extension). Remember to place it in the same folder as this script. '), sep=';'))
 elif query == 'help' or query == 'Help':
     print('The available data types are: all information (all), accession numbers (accessions), resistance patterns (resistances), positions in microtitre plates (positions).')
 else:
